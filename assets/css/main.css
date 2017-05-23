@@ -6,3 +6,41 @@ Colors:
 #75726C;
 #EDE9E2
 */
+body{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+/* desarrollo de  header*/
+nav{
+    position: fixed;
+    background-color: #E54E79;
+    height: 100px;
+    width: 100%;
+    text-align: right;  
+}
+nav ul{
+    /*text-align: right;*/
+    margin-right: 150px;
+}
+nav ul li{
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 20px;
+    margin-right: 30px;
+}
+nav ul li a{
+    text-decoration: none;
+    position: relative;
+    color: white;
+    font-family: arial;
+}
+img{
+    float: left;
+    height: 50px;
+    width: auto;
+    margin-left: 300px;
+    margin-top: 20px;
+}
+/* Desarrollo body 
+.fondo*/
