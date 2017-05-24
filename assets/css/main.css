@@ -241,8 +241,10 @@ h1{
 	background-color: gray;
 }
 .lab{
-	height: 20px;
-	margin-top: 20px;
-
+	background-color: #707070;
+	height: 30px;
+	margin-top: -20px;
+	color: white;
+	padding-left: 190px;
 }
 
