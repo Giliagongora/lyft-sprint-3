@@ -207,16 +207,42 @@ Colors:
 
 /* creando footer*/
 .contenedorFooter{
+	margin-top: 0;
 	height: 250px;
 	width: 100%;
 	background-color: #707070;
 }
+
+h1{
+	margin-top: 0;
+	margin-right: 40px;
+	color: white;
+}
+#textone{
+	padding-top: 30px;
+	padding-left: 200px;
+}
+#texttwo{
+	padding-top: 0px;
+	padding-left: 203px;
+	color: white;
+}
+#textres{
+	float: right;
+	margin-right: 317px;
+	color: white;
+	margin-top: -70px;
+}
+
 .end{
-	border-left: 100px;
+	
 	height: 100px;
 	width: 100%;
+	background-color: gray;
 }
-.lab p{
-	
+.lab{
+	height: 20px;
+	margin-top: 20px;
+
 }
 
