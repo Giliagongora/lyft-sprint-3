@@ -133,22 +133,7 @@ input{
 }
 
 
-/*
-input{
-		font-size: 17px;
-	margin-left: 31px;
-	margin-top: 0px;
-	border-color: none;
-	width: 50%;
-  font-size:18px;
-  padding:10px 10px 10px 5px;
-  display:block;
-  width:300px;
-  border:none;
-  border-bottom:1px solid #757575;
-}
-input:focus{ outline:none; }
-*/
+
 /* Desarrollo de juego */
 .contenedor1{
 
@@ -176,14 +161,47 @@ input:focus{ outline:none; }
 	display: inline-block;
 	height: 250px;
 	width: 700px;
-	background-color: #707070;
+	background-color: #EDE9E2;
 	margin-left: 300px;
 	margin-top: 180px;
 }
-.contenerdorCars i input{
-	display: inline-block;	
+#autos{
+	padding: 20px;
+	margin-left: 40px;
+	margin-top: 60px;
+	color: gray;
+}
+#one{
+	width: 250px;
 }
 
+.botton{
+	margin-top: 20px;
+	margin-left: 60px;
+}
+
+#botton{
+	margin-top: 20px;
+	margin-left: 40px;
+	height: 25px;
+ 	width: 500px;
+ 	color: white;
+ 	background-color: #00B2A9;
+
+	border-radius: 60px 60px 60px 60px;
+	-moz-border-radius: 60px 60px 60px 60px;
+	-webkit-border-radius: 60px 60px 60px 60px;
+	border: 0px solid #000000;
+}
+
+/*
+Colors: 
+#E54E79;
+#E56385;
+#00B2A9;
+#75726C;
+#EDE9E2
+*/
 
 
 
@@ -199,5 +217,6 @@ input:focus{ outline:none; }
 	width: 100%;
 }
 .lab p{
-	background-color: </section>
+	
 }
+
