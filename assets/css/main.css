@@ -124,10 +124,12 @@ input{
 	
 }
 .text3 p{
-	float: right;
+	float: left;
 	margin-right: 30px;
-	margin-top: 200px;
+	margin-top: 25px;
+	margin-left: 20px;
 	font-size: 15px;
+	line-height: 4px;
 }
 
 
@@ -149,6 +151,7 @@ input:focus{ outline:none; }
 */
 /* Desarrollo de juego */
 .contenedor1{
+
 	margin-right: 0;
 	margin-top: 531px;
 	height: 700px;
@@ -170,24 +173,31 @@ input:focus{ outline:none; }
 
 }
 .contenedorCars{
-	height: 300px;
+	display: inline-block;
+	height: 250px;
 	width: 700px;
 	background-color: #707070;
 	margin-left: 300px;
 	margin-top: 180px;
 }
+.contenerdorCars i input{
+	display: inline-block;	
+}
+
 
 
 
 /* creando footer*/
+.contenedorFooter{
+	height: 250px;
+	width: 100%;
+	background-color: #707070;
+}
 .end{
 	border-left: 100px;
-	height: 150px;
+	height: 100px;
 	width: 100%;
 }
-.end p{
-	padding: 0px 20px;
-	margin-bottom: 0px;
-	background-color: #707070;
-	text-align: right;
+.lab p{
+	background-color: </section>
 }
